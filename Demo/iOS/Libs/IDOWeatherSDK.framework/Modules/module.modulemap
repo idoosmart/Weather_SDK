@@ -1,0 +1,8 @@
+framework module IDOWeatherSDK {
+    umbrella header "IDOWeatherSDK.h"
+
+    export *
+    module * { export * }
+
+    use Foundation
+}
